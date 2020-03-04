@@ -29,7 +29,7 @@ The parameters that will be used in this study were extracted from a publication
 
 *Table 1: This table describes the parameters to be used on the test data. Parameters copied from article by J. R. Janke.*
 
-![Table 1](/images/Parameters.png "Parameters")
+![Table 1](/images/Parameters.PNG "Parameters")
 
 ## Methodology
 
@@ -96,7 +96,7 @@ Using the variables collected for New Mexico, United States and the parameters t
 
 *Image 1: The output image produced by the MCDM plugin in QGIS3.*
 
-![Image 1](/images/finaloutput.png "Output")
+![Image 1](/images/finaloutput.PNG "Output")
 
 ## Conclusion
 
