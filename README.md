@@ -16,7 +16,7 @@ A diagram was created to keep the group organized throughout the coding process.
 
 *Figure 1: This flow chart emulates the tools used to preprocess the variables to reach a final weighted overlay map product.*
 
-![Figure 1](images\final_workflow.png "Workflow")
+![Figure 1](/images/final_workflow.png "Workflow")
 
 For discrete variables, the road network and city centroid shapefiles were downloaded from the U.S. Census Bureau and transmission networks from the Homeland Infrastructure Foundation Level-Data (HIFLD) for New Mexico, United States. These shapefiles underwent rasterization and had their Euclidean distances calculated using the Raster Distance tool in QGIS3. In addition, a shapefile containing the border of New Mexico was included to clip the data files to area of study.
 
@@ -29,7 +29,7 @@ The parameters that will be used in this study were extracted from a publication
 
 *Table 1: This table describes the parameters to be used on the test data. Parameters copied from article by J. R. Janke.*
 
-![Table 1](images\Parameters.png "Parameters")
+![Table 1](/images/Parameters.png "Parameters")
 
 ## Methodology
 
@@ -96,7 +96,7 @@ Using the variables collected for New Mexico, United States and the parameters t
 
 *Image 1: The output image produced by the MCDM plugin in QGIS3.*
 
-![Image 1](images\finaloutput.png "Output")
+![Image 1](/images/finaloutput.png "Output")
 
 ## Conclusion
 
