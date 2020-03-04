@@ -24,7 +24,7 @@ This guide explains how to use an experimental QGIS plugin that produces a weigh
 
 - Click the on the button
 
-8. Import files in the correct places, fill in suitability rank, pixel size = 0 and output location.
+8. Import files in the correct places, fill in suitability rank and relative weight, pixel size = 0 and output location.
 
   ![Figure 1](/images/scoresweights.PNG "Scores and Weights")
 
