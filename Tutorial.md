@@ -12,22 +12,22 @@ This guide explains how to use an experimental QGIS plugin that produces a weigh
 
 5. In the plugins menu, go to 'Manage and install plugins...'
 
-  Click 'Install from zip' and import the experimental plugin
+- Click 'Install from zip' and import the experimental plugin
 
-  Once imported click 'Install Plugin'
+- Once imported click 'Install Plugin'
 
 6. In the same window, go to 'Install plugins' and check the box next to 'Multi Criteria Decision Maker'
 
-  Click 'Close'
+- Click 'Close'
 
 7. The experimental button should appear in the toolbar of QGIS.
 
-  Click the on the button
+- Click the on the button
 
 8. Import files in the correct places, fill in suitability rank, pixel size = 0 and output location.
 
-  ![Figure 1](images\scoresweights.png "Scores and Weights")
+  ![Figure 1](/images/scoresweights.PNG "Scores and Weights")
 
-  Click 'Ok'
+- Click 'Ok'
 
 9. Output raster will appear in the layer pane
