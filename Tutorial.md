@@ -2,9 +2,9 @@
 
 This guide explains how to use an experimental QGIS plugin that produces a weighted overlay raster image through automating the preprocessing steps of the variables used in multicriteria evaluation for solar farms.
 
-1. Import data zipfile from 'zipfiles' folder
+1. Import data from DropBox at https://www.dropbox.com/transfer/AAAAALd-TeEefdxwd2_DO0bEIvc3TnjAz8WHjIWXqD0Tgawz9eI_qFE
 
-2. Import experimental plug-in zipfile from 'zipfiles' folder
+2. Import experimental plug-in zipfile from 'zipfiles' folder named 'qgisplugin.zip'
 
 3. Open QGIS3 with GRASS 7.6
 
